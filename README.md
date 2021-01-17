@@ -1,16 +1,15 @@
-### Hi there 👋
+## Welcome
 
-<!--
-**mshmandal/mshmandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### This Mohammad Shamim Hasan Mandal 🤔 
 
-Here are some ideas to get you started:
+Thank you for visiting my github page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About me
+- I am an spatial ecologist. My research is focused on mangrove ecology focused on the largest contiguous mangrove forest of the world the Sundarbans.
+- I have a doctoral degree from Hiroshima University, Japan. 
+- Love programming with R, Javascript and Python.
+
+
+Fine me on [twitter](https://twitter.com/mshmandal) and 
+Visit my [homepage](https://www.mshmandal.github.io)
+  
