@@ -11,5 +11,5 @@ Thank you for visiting my github page.
 
 
 Fine me on [twitter](https://twitter.com/mshmandal) and 
-Visit my [homepage](https://www.mshmandal.github.io)
+Visit my [homepage](https://mshmandal.github.io/)
   
